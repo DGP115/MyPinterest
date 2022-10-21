@@ -1,2 +1,0 @@
-# MyPinterest
-a coding exercise
